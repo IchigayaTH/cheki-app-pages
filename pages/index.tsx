@@ -7,6 +7,7 @@ export default function Home() {
         <li>購入済み一覧</li>
         <li>利用履歴</li>
         <li>アカウント設定</li>
+        <li>ほげほげhogehoge</li>
       </ul>
     </div>
   );
